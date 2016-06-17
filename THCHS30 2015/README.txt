@@ -1,6 +1,6 @@
 The .wav files in this folder are a filtered selection of THCHS30 2015 data files.
 
-Contents
+Contents, 60 files  Fs 16000 khz   
 
 
    A         same speech --> 35 speakers
